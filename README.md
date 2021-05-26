@@ -7,3 +7,5 @@
  Este proyecto se irá rellenando cada vez con más cosas.
  
  TODO está sacado del video del canal de youtube @BroCode.
+
+(Disculpad por la falta de tildes, cuando programo cambio el idioma del teclado) 
