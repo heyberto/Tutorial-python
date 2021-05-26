@@ -1,10 +1,10 @@
 #VARIABLES
 
 #STRING
-name='Alberto'
+#name='Alberto'
 #surname='Diaz del Campo'
 #full_name = name +' '+ surname
-print(type(name))
+#print(type(name))
 #print(type(surname))
 #print(full_name)
 
