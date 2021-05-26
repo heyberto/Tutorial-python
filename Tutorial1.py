@@ -9,7 +9,7 @@
 #print(full_name)
 
 #INT
-#age = 15
+#age = 94
 #age += 1
 #print(type(age))
 #print('has vivido : ' +str(age) + ' ' +  'primaveras')
@@ -22,9 +22,9 @@
 
 #UN INFORME DE LO QUE HE APRENDIDO(UN INFORME MIO)
 
-#nombre = 'Alberto'
-#apellido = 'Diaz del Campo Llorente'
-#edad = 15
+#nombre = 'Berto'
+#apellido = 'Tus apellidos'
+#edad = 94   #Da igual el número
 #altura = 173.6
 #print('Hola, este es mi primer informe:')
 #print('Me llamo ' + nombre + ' '+ (apellido))
