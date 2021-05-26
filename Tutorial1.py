@@ -1,8 +1,8 @@
 #VARIABLES
 
 #STRING
-#name='Alberto'
-#surname='Diaz del Campo'
+#name='Berto'
+#surname='Tus apellidos'
 #full_name = name +' '+ surname
 #print(type(name))
 #print(type(surname))
