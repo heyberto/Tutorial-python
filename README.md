@@ -4,7 +4,7 @@
  
  Quitais el # de las líneas que querais probrar y ya está. 
  
- Este proyecto se irá rellenando cada vez con más cosas.
+ Este proyecto se irá rellenando cada vez con más cosas.(Cada día)
  
  TODO está sacado del video del canal de youtube @Bro Code.
 
