@@ -6,6 +6,6 @@
  
  Este proyecto se irá rellenando cada vez con más cosas.
  
- TODO está sacado del video del canal de youtube @BroCode.
+ TODO está sacado del video del canal de youtube @Bro Code.
 
 (Disculpad por la falta de tildes, cuando programo cambio el idioma del teclado) 
