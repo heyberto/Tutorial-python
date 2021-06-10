@@ -1,15 +1,15 @@
 #VARIABLES
 
 #STRING
-#name='Berto'
-#surname='Tus apellidos'
-#full_name = name +' '+ surname
+name='Alberto'
+surname='Diaz del Campo'
+full_name = name +' '+ surname
 #print(type(name))
 #print(type(surname))
-#print(full_name)
+print(full_name)
 
 #INT
-#age = 94
+#age = 15
 #age += 1
 #print(type(age))
 #print('has vivido : ' +str(age) + ' ' +  'primaveras')
@@ -22,14 +22,14 @@
 
 #UN INFORME DE LO QUE HE APRENDIDO(UN INFORME MIO)
 
-#nombre = 'Berto'
-#apellido = 'Tus apellidos'
-#edad = 94   #Da igual el número
-#altura = 173.6
-#print('Hola, este es mi primer informe:')
-#print('Me llamo ' + nombre + ' '+ (apellido))
-#print('He vivido ' + str(edad) + ' primaveras')
-#print('Mido '+ str(altura)+'cm')
+nombre = 'Alberto'
+apellido = 'Diaz del Campo Llorente'
+edad = 15
+altura = 173.6
+print('Hola, este es mi primer informe:')
+print('Me llamo ' + (nombre) + ' '+ (apellido))
+print('He vivido ' + str(edad) + ' primaveras')
+print('Mido '+ str(altura)+'cm')
 
 
 #BOOLEAN
@@ -149,3 +149,4 @@
 #print(x)
 #print(y)
 #print(z)
+
